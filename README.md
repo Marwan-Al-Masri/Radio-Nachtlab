@@ -23,24 +23,25 @@ It should look like this:
 
 ```html
 <div class="qt-card qt-contents qt-showcard">
-	<div class="row">
-		<div class="col s12 m6 l6 qt-show-tagline">
-			<h3 class="qt-title"></h3>
-			<h4></h4>
-		</div>
-		<div class="col s12 m6 l6">
-			<h5>Tagged as:</h5>
-			<div class="qt-content-readmore">
-				<div class="qt-the-content">
-          <div>
-						<div>
-							<p>Dimi Angélis</p>
-              <div class="f24">It might sound like a cliché, but sticking to what you believe in really does pay off in the end. Dimi has been actively involved in the Dutch technoscene since the late nineties, his legendary raves at various locations still speaking to the imagination of many. Technofreaks abroad must know Dimi from his Counterpart and A&amp;S project (w/ Jeroen Search). For their sound they draw inspiration from the classical Detroit minimalists and give it their own contemporary twist. As for Dimi’s dj-sets, he can venture into the deepest of house or the bloodiest of nosebleed techno, but he always stays true to himself and to the music in its purest form.</div>
-						</div>
+ <div class="row">
+	<div class="col s12 m6 l6 qt-show-tagline">
+		<h3 class="qt-title"></h3>
+		<h4></h4>
+	</div>
+	<div class="col s12 m6 l6">
+		<h5>Tagged as:</h5>
+		<div class="qt-content-readmore">
+			<div class="qt-the-content">
+			<div>
+				<div>
+					<p>Dimi Angélis</p>
+			    <div class="f24">It might sound like a cliché, but sticking to what you believe in really does pay off in the end. Dimi has been actively involved in the Dutch technoscene since the late nineties, his legendary raves at various locations still speaking to the imagination of many. Technofreaks abroad must know Dimi from his Counterpart and A&amp;S project (w/ Jeroen Search). For their sound they draw inspiration from the classical Detroit minimalists and give it their own contemporary twist. As for Dimi’s dj-sets, he can venture into the deepest of house or the bloodiest of nosebleed techno, but he always stays true to himself and to the music in its purest form.
 					</div>
 				</div>
-				<hr class="qt-spacer-m">
 			</div>
+			</div>
+			<hr class="qt-spacer-m">
+		</div>
 		</div>
 	</div>
 </div>
